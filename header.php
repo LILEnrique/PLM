@@ -17,10 +17,10 @@
             <div class="bar"></div>
           </div>
           <ul>
-            <li><a href="#hero" id="hero" data-after="Home">Home</a></li>
-            <li><a href="#about" id="about" data-after="Service">Quienes Somos</a></li>
-            <li><a href="#projects" id="projects"data-after="Projects">Estudios biblicos</a></li>
-            <li><a href="#contact" id="contact" data-after="Contact">Contacto</a></li>
+            <li><a href="#hero"  data-after="Home">Home</a></li>
+            <li><a href="#about"  data-after="Service">Quienes Somos</a></li>
+            <li><a href="#projects" data-after="Projects">Estudios biblicos</a></li>
+            <li><a href="#contact" data-after="Contact">Contacto</a></li>
           </ul>
         </div>
       </div>
