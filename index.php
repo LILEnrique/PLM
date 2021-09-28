@@ -2,6 +2,10 @@
 <html lang="en">
 
 <head>
+<meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>LA MANO EN ARADO</title>
 <?php include("header.php") ; ?>
 </head>
 <body>
@@ -45,13 +49,14 @@
         <h1 class="section-title">Estudios biblicos <span>Categorias</span></h1>
       </div>
       <div class="all-projects">
+
         <div class="project-item">
           <div class="project-info">
             <h1>Nuevo Orden</h1> 
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
               rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
               harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
-              <a href="" type="button" class="cta">Explorar categoria</a>
+              <a href="categoria.php?cat=nuevo_orden" type="button" class="cta" name="">Explorar categoria</a>
           </div>
           <div class="project-img">
             <img src="./img/img-1.png" alt="img">
@@ -64,7 +69,7 @@
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
               rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
               harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
-              <a href="" type="button" class="cta">Explorar categoria</a>
+              <a href="categoria.php?cat=doctrina" type="button" class="cta">Explorar categoria</a>
           </div>
           <div class="project-img">
             <img src="./img/img-1.png" alt="img">
@@ -77,7 +82,7 @@
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
               rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
               harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
-              <a href="" type="button" class="cta">Explorar categoria</a>
+              <a href="categoria.php?cat=israel" type="button" class="cta">Explorar categoria</a>
           </div>
           <div class="project-img">
             <img src="./img/img-1.png" alt="img">
@@ -90,7 +95,7 @@
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
               rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
               harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
-              <a href="" type="button" class="cta">Explorar categoria</a>
+              <a href="categoria.php?cat=devocional_y_discipulado" type="button" class="cta">Explorar categoria</a>
           </div>
           <div class="project-img">
             <img src="./img/img-1.png" alt="img">
@@ -103,7 +108,7 @@
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
               rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
               harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
-              <a href="" type="button" class="cta">Explorar categoria</a>
+              <a href="categoria.php?cat=sectas" type="button" class="cta">Explorar categoria</a>
           </div>
           <div class="project-img">
             <img src="./img/img-1.png" alt="img">
@@ -116,7 +121,7 @@
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum impedit unde
               rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo neque atque libero non sunt
               harum? Ipsum repellat animi, fugit architecto voluptatum odit et!</p>
-              <a href="" type="button" class="cta">Explorar categoria</a>
+              <a href="categoria.php?cat=escatologia" type="button" class="cta">Explorar categoria</a>
           </div>
           <div class="project-img">
             <img src="./img/img-1.png" alt="img">
