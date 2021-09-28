@@ -11,9 +11,9 @@ hamburger.addEventListener('click', () => {
 document.addEventListener('scroll', () => {
 	var scroll_position = window.scrollY;
 	if (scroll_position > 250) {
-		header.style.backgroundColor = '#29323c';
+		header.style.backgroundImage = 'linear-gradient(to right, rgba(60, 110, 113, 1) 0%, rgba(23, 184, 144, 1) 100%)';
 	} else {
-		header.style.backgroundColor = 'transparent';
+		header.style.backgroundImage = 'transparent';
 	}
 });
 
